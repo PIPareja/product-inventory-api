@@ -64,9 +64,9 @@ npm run dev
 
 | URL | Descripción |
 |-----|-------------|
-| `http://localhost:3000` | Frontend — interfaz visual |
-| `http://localhost:3000/api/products` | API REST |
-| `http://localhost:3000/api-docs` | Documentación Swagger |
+| `https://product-inventory-api-production.up.railway.app` | Frontend — interfaz visual |
+| `https://product-inventory-api-production.up.railway.app/api/products` | API REST |
+| `https://product-inventory-api-production.up.railway.app/api-docs` | Documentación Swagger |
 
 ## 📦 Ejemplo de body para POST y PUT
 
