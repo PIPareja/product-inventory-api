@@ -1,7 +1,6 @@
 # 🛒 API de Inventario de Productos
 
-API REST para gestión de inventario de productos, desarrollada como proyecto de portafolio. Incluye operaciones CRUD completas, documentación interactiva con Swagger y Frontend integrado.
-(http://localhost:3000)
+API REST para gestión de inventario de productos, desarrollada como proyecto de portafolio. Incluye operaciones CRUD completas, documentación interactiva con Swagger y Frontend integrado. (https://product-inventory-api-production.up.railway.app/)
 
 ## 🛠️ Tech Stack
 
