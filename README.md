@@ -80,20 +80,23 @@ npm run dev
 
 ## 📁 Estructura del proyecto
 
+```
 src/
 ├── config/
-│   ├── db.js          # Conexión a MySQL (pool de conexiones)
-│   └── swagger.js     # Configuración de Swagger
+│   ├── db.js              # Conexión a MySQL (pool de conexiones)
+│   └── swagger.js         # Configuración de Swagger
 ├── controllers/
 │   └── product.controller.js  # Lógica de negocio
 ├── routes/
 │   └── product.routes.js      # Definición de endpoints
 ├── middlewares/
 │   └── errorHandler.js        # Manejo centralizado de errores
-└── app.js             # Entry point del servidor
+└── app.js                 # Entry point del servidor
 public/
-└── index.html         # Frontend integrado
+└── index.html             # Frontend integrado
+```
 
 ## 👤 Autor
 
-**Pablo Pareja** — [GitHub](https://github.com/PIPareja)
+**Pablo Pareja** — [GitHub](https://github.com/PIPareja) - [LinkedIn](https://www.linkedin.com/in/ppareja/)
+
